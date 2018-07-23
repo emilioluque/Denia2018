@@ -1,15 +1,12 @@
-# Flux
+# Respuestas inciertas
 
-An application architecture for React
+### Emilio Luque
+#### Sociología II (UNED)
 
----
+#### Proyecto I+D INCERCLIMA
 
-### Flux Design
+***
 
-- Dispatcher: Manages Data Flow
-- Stores: Handle State & Logic
-- Views: Render Data via React
+Cosas que contaré
 
----
-
-![Flux Explained](https://facebook.github.io/flux/img/flux-simple-f8-diagram-explained-1300w.png)
+***
