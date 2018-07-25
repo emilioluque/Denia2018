@@ -10,6 +10,6 @@ theme-override : assets/css/PITCHME.css
 highlight : atom-one-light
 logo : assets/image/logo.png
 # background : assets/image/octavian-rosca.jpg
-transition : none
+transition : convex
 published : true
-footnote : "GitPitch [ Space ] Presentation Template"
+footnote : "Emilio Luque INCERCLIMA Denia 2018"
