@@ -11,3 +11,5 @@
 Cosas que contaré
 
 ---
+
+?image=assets/image/AIAWhereWeStand.png
