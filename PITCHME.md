@@ -12,4 +12,4 @@ Cosas que contaré
 
 ---
 
-?image=assets/image/AIAWhereWeStand.png
+---?image=assets/image/AIAWhereWeStand.png
