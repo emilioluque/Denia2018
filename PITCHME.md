@@ -42,11 +42,11 @@ _**We believe that the climate change battle will be won or lost in cities**_. T
 
 ---
 
-We understand _**how buildings contribute to climate change**_. _**Almost 40 percent of all US energy is consumed by buildings**_, which produce carbon through heating, cooling and lighting and through their construction. Architects can reduce such operational and embodied carbon production with passive design techniques, energy efficiency measures and low-impact building materials, which increase human health and productivity.**/1**
+We understand _**how buildings contribute to climate change**_. _**Almost 40 percent of all US energy is consumed by buildings**_, which produce carbon through heating, cooling and lighting and through their construction. Architects can reduce such operational and embodied carbon production with passive design techniques, energy efficiency measures and low-impact building materials, which increase human health and productivity.**1/2**
 
 ---
 
-Architects also integrate _**renewable energy sources**_ into buildings, making them more sustainable, resilient and economical. We call on lawmakers to retain and extend _**tax incentives that underwrite such energy-efficient design and construction**_.
+Architects also integrate _**renewable energy sources**_ into buildings, making them more sustainable, resilient and economical. We call on lawmakers to retain and extend _**tax incentives that underwrite such energy-efficient design and construction**_.**2/2**_
 
 ---
 
