@@ -42,6 +42,8 @@
 
 > “It is difficult to get a man to understand something, when his salary depends on his not understanding it.”
 
+---
+
 ---?images=assets/image/biases1.png
 
 ---?images=assets/image/biases2.png
