@@ -8,7 +8,10 @@
 
 ---
 
-Cosas que contaré
+### La vida social de las predicciones
+### Sesgos cognitivos, big time
+### Una estrategia metodológica: el análisis de marcos
+### Un miniestudio de caso conjunto: _where we stand_ del AIA
 
 ---?image=assets/image/IMFRecessionsPrediction.png&size=contain
 
@@ -38,6 +41,10 @@ Cosas que contaré
 ### The Upton Sinclair rule
 
 > “It is difficult to get a man to understand something, when his salary depends on his not understanding it.”
+
+---
+
+
 
 ---
 
