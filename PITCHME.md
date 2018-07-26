@@ -44,15 +44,15 @@
 
 ---
 
----?image=assets/image/biases1.png
+---?image=assets/image/biases1.png&size=contain
 
----?image=assets/image/biases2.png
+---?image=assets/image/biases2.png&size=contain
 
----?image=assets/image/biases3.png
+---?image=assets/image/biases3.png&size=contain
 
----?image=assets/image/biases4.png
+---?image=assets/image/biases4.png&size=contain
 
----?image=assets/image/biases5.png
+---?image=assets/image/biases5.png&size=contain
 
 ---
 
