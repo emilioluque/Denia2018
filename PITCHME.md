@@ -8,10 +8,22 @@
 
 ---
 
+### Múltiples sentidos de la incertidumbre
 ### La vida social de las predicciones
 ### Sesgos cognitivos, big time
 ### Una estrategia metodológica: el análisis de marcos
 ### Un miniestudio de caso conjunto: _where we stand_ del AIA
+
+---
+
+* Lo que no se sabe aún  
+* Lo que se sabe que no se sabe
+* Lo que no hay manera de saber
+* Lo que depende de lo que hagan otros
+* Lo que se interroga
+* ...
+
+---
 
 ---?image=assets/image/IMFRecessionsPrediction.png&size=contain
 
