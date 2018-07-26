@@ -12,7 +12,7 @@ Cosas que contaré
 
 ---?image=assets/image/IMFRecessionsPrediction.png
 
----
+---?image=assets/image/IMFRecessionsPrediction.png&opacity=40
 
 # La diferente vida social de las predicciones
 
