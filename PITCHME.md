@@ -33,9 +33,9 @@ Cosas que contaré
 
 ---
 
----image=assets/image/UptonSinclair.jpg
+---?image=assets/image/UptonSinclair.jpg
 
----image=assets/image/UptonSinclair.jpg&opacity=40
+---?image=assets/image/UptonSinclair.jpg&opacity=40
 
 ### The Upton Sinclair rule
 
