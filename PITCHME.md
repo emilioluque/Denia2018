@@ -10,9 +10,9 @@
 
 Cosas que contaré
 
----?image=assets/image/IMFRecessionsPrediction.png
+---?image=assets/image/IMFRecessionsPrediction.png&size=contain
 
----?image=assets/image/IMFRecessionsPrediction.png&opacity=40
+---?image=assets/image/IMFRecessionsPrediction.png&size=contain&opacity=40
 
 # La diferente vida social de las predicciones
 
@@ -33,9 +33,9 @@ Cosas que contaré
 
 ---
 
----?image=assets/image/UptonSinclair.jpg
+---?image=assets/image/UptonSinclair.jpg&size=contain
 
----?image=assets/image/UptonSinclair.jpg&opacity=40
+---?image=assets/image/UptonSinclair.jpg&size=contain&opacity=40
 
 ### The Upton Sinclair rule
 
