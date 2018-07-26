@@ -21,9 +21,10 @@
 * Lo que no hay manera de saber
 * Lo que depende de lo que hagan otros
 * Lo que se interroga
+* Lo que vamos a hacer
+* Lo que vamos a ser
+* Los que van a estar arriba
 * ...
-
----
 
 ---?image=assets/image/IMFRecessionsPrediction.png&size=contain
 
@@ -46,9 +47,18 @@
 
 > ...there isn't much of a reputational gain from being the one to call out a recession.
 
+---?image=assets/image/BancoDeEspaña1.png&size=contain
+
+---?image=assets/image/BancoDeEspaña2.png&size=contain
+
+---?image=assets/image/F.1.large.jpg&size=contain
+
+---?image=assets/image/F.6.large.jpg&size=contain
+
 ---?image=assets/image/UptonSinclair.jpg&size=contain
 
 ---?image=assets/image/UptonSinclair.jpg&size=contain&opacity=40
+
 
 ### The Upton Sinclair rule
 
@@ -71,6 +81,11 @@
 # Arquitectos ¿construyendo respuestas al cambio climático?
 
 ---?image=assets/image/AIAWhereWeStand.png&size=contain
+
+---
+
+---?image=assets/image/FrameworksInstitute.png&size=contain
+
 
 ---
 
@@ -151,6 +166,12 @@ _**Codes, standards, and evidence-based rating systems**_ are essential to creat
 
 ---
 
+ 
+
+---
+
 _**Collaboration**_ is the _**key to climate change mitigation**_. Architects have the skills and experience to help protect the planet from the effects of climate change. But only by _**working and communicating globally with policymakers, the building industry and the general public**_ can we effectively address the climate change challenge.
 
+---
 
+http://emilioluque.com/presentaciones/ESARN37MadridLuque28062018.html
