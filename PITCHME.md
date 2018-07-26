@@ -10,7 +10,20 @@
 
 Cosas que contaré
 
+---?image=assets/image/IMFRecessionsPrediction.png
+
 ---
+
+# La diferente vida social de las predicciones
+
+---
+
+> Los economistas tienen un registro casi inmaculado de _fallos_ a la hora de predecir recesiones. Han conseguido _no_ predecir 148 de las últimas 150 recesiones.
+	> Prakash Loungani, IMF.
+
+---
+
+# Arquitectos ¿construyendo respuestas al cambio climático?
 
 ---?image=assets/image/AIAWhereWeStand.png
 
