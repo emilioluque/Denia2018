@@ -23,11 +23,24 @@ Cosas que contaré
 
 ---
 
+### ¿Por qué son tan malos?
+
+> We should be humble about our ability to predict.
+> ...there isn't much of a reputational gain from being the one to call out a recession.
+
+---image=assets/image/UptonSinclair.jpg
+
+---image=assets/image/UptonSinclair.jpg&opacity=40
+
+### The Upton Sinclair rule
+
+> “It is difficult to get a man to understand something, when his salary depends on his not understanding it.”
+
+---
+
 # Arquitectos ¿construyendo respuestas al cambio climático?
 
 ---?image=assets/image/AIAWhereWeStand.png
-
----
 
 _**Scientific consensus**_ shows that increasing atmospheric levels of carbon dioxide contribute significantly to rising sea levels, extreme weather events and degradation of natural resources. These trends **_threaten_** national security, human health, food supply, natural ecosystems and global economies. Climate change clearly is one of the biggest _**global crises**_ of the 21st century.
 
