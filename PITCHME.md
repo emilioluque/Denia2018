@@ -31,8 +31,6 @@ Cosas que contaré
 
 > ...there isn't much of a reputational gain from being the one to call out a recession.
 
----
-
 ---?image=assets/image/UptonSinclair.jpg&size=contain
 
 ---?image=assets/image/UptonSinclair.jpg&size=contain&opacity=40
@@ -45,9 +43,44 @@ Cosas que contaré
 
 # Arquitectos ¿construyendo respuestas al cambio climático?
 
+---?image=assets/image/AIAWhereWeStand.png&size=contain
+
 ---
 
----?image=assets/image/AIAWhereWeStand.png
+* How do we get people to think about our issues?
+* How do we get them to think about our issues in such a way that they want to solve them through public policies, not only individual actions?
+* How do we get them to think about issues in such a way that they want to solve them through our public policies?
+
+---
+
+* What issues people think are important for government to address (agenda-setting)
+* The lens through which people interpret issues (framing), and
+* What information will prove relevant for social and political judgments (priming)
+
+---
+
+* People use mental shortcuts to make sense of the world.
+* Incoming information provides cues about where to "file" it mentally.
+* People get most information about public affairs from the news media which, over time, creates a framework of expectation, or dominant frame.
+* Over time, we develop habits of thought and expectation and configure incoming information to conform to this frame.
+
+---
+
+## What Is A Frame?
+> Frames are organizing principles that are socially shared and persistent over time, that work symbolically to meaningfully structure the social world."
+
+Stephen D. Reese, Framing Public Life, 2001
+
+---
+
+* People are not blank slates.
+* Communications is interactive.
+* Communications resonates with people's deeply held values and worldviews.
+* The currency of communications is frames.
+* When communications is inadequate, people default to the "pictures in their heads," or existing frames.
+* When communications is effective, people can see an issue from a different perspective, or alternative frame.
+
+---
 
 _**Scientific consensus**_ shows that increasing atmospheric levels of carbon dioxide contribute significantly to rising sea levels, extreme weather events and degradation of natural resources. These trends **_threaten_** national security, human health, food supply, natural ecosystems and global economies. Climate change clearly is one of the biggest _**global crises**_ of the 21st century.
 
