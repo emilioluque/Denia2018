@@ -26,7 +26,12 @@ Cosas que contaré
 ### ¿Por qué son tan malos?
 
 > We should be humble about our ability to predict.
+
+---
+
 > ...there isn't much of a reputational gain from being the one to call out a recession.
+
+---
 
 ---image=assets/image/UptonSinclair.jpg
 
@@ -39,6 +44,8 @@ Cosas que contaré
 ---
 
 # Arquitectos ¿construyendo respuestas al cambio climático?
+
+---
 
 ---?image=assets/image/AIAWhereWeStand.png
 
