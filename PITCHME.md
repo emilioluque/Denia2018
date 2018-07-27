@@ -47,13 +47,13 @@
 
 > ...there isn't much of a reputational gain from being the one to call out a recession.
 
----?image=assets/image/BancoDeEspaña1.png&size=contain
+---?image=assets/image/bankSpain1.png&size=contain
 
----?image=assets/image/BancoDeEspaña2.png&size=contain
+---?image=assets/image/bankSpain2.png&size=contain
 
----?image=assets/image/F.1.large.jpg&size=contain
+---?image=assets/image/F1.large.jpg&size=contain
 
----?image=assets/image/F.6.large.jpg&size=contain
+---?image=assets/image/F6.large.jpg&size=contain
 
 ---?image=assets/image/UptonSinclair.jpg&size=contain
 
